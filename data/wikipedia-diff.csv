@@ -1,25 +1,25 @@
 @@,wdid,name,position
-+++,Q66309846,Ahmed Shide,Minister of Finance
-+++,Q62123939,Dagmawit Moges,Minister of Transport and Logistics
-+++,Q60852478,Aisha Mohammed Mussa,Minister of Irrigation and Lowland Areas Development
-+++,Q57898816,Lia Tadesse,Minister of Health
-+++,Q56485727,Takele Uma Banti,Minister of Mines and Petroleum
-+++,Q55238035,Muferiat Kamil,Minister of Labour and Skills Development
-+++,Q50365049,Abiy Ahmed,Prime Minister of Ethiopia
-+++,Q4891781,Berhanu Nega,Minister of Education
+->,Q66309846,Ahmed Shide,Minister of Finance and Economic Development->Minister of Finance
+->,Q62123939,Dagmawit Moges,Minister of Transport and Communications->Minister of Transport and Logistics
+->,Q60852478,Aisha Mohammed Mussa,Minister of Irrigation and Lowlands->Minister of Irrigation and Lowland Areas Development
+->,Q57898816,Lia Tadesse Gebremedhin->Lia Tadesse,minister of Health of Ethiopia->Minister of Health
+->,Q56485727,Takele Uma Benti->Takele Uma Banti,Minister of Mines->Minister of Mines and Petroleum
+->,Q55238035,Muferihat Kamil Ahmed->Muferiat Kamil,Minister of Labour and Skills Development
+->,Q50365049,Abiy Ahmed Ali->Abiy Ahmed,Prime Minister of Ethiopia
+->,Q4891781,Berhanu Nega,Minister of Education of Ethiopia->Minister of Education
+->,Q109994663->NULL,Nassise Chali,Minister of Tourism
+->,Q109994204->NULL,Binalf Andualem,Minister of Peace (Ethiopia)->Minister of Peace
+->,Q109994068->NULL,Kejela Merdasa->Kejella Merdassa,Minister of Culture and Sport
+->,Q109993975->NULL,Belete Molla,Minister of Innovation and Technology
+->,Q109993896->NULL,Melaku Alebel,Minister of Industry
+->,Q109993837->NULL,Gebremeskel Chala,Minister of Trade of Ethiopia->Minister of Trade and Regional Integration
+->,Q109993726->NULL,Lake Ayalew->La'qe Ayalew,Minister of Revenues
+->,Q109993651->NULL,Habtamu Itefa,Minister of Water and Energy
+->,Q109993561->NULL,Chaltu Sani,Minister of Urbanization and Infrastructure
+->,Q109993240->NULL,Omer Husen,Minister of Agriculture of Ethiopia->Minister of Agriculture
+->,Q109536191,Abraham Belay,Minister of Defence of Ethiopia->Minister of Defense
+---,Q7399685,Sahle-Work Zewde,President of Ethiopia
+---,Q16728486,Demeke Mekonnen,Minister of Foreign Affairs of Ethiopia
+---,Q109339517,Gedion Timotheos,Minister of Justice of Ethiopia
 +++,Q16728486,Demeke Mekonnen,Minister of Foreign Affairs
-+++,Q16728486,Demeke Mekonnen,Deputy Prime Minister of Ethiopia
-+++,Q109536191,Abraham Belay,Minister of Defense
-+++,Q104822337,Ergoge Tesfaye,Minister of Women and Social Affairs
-+++,Q104794313,Fitsum Assefa,Minister of Planning and Development
-+++,"",Chaltu Sani,Minister of Urbanization and Infrastructure
-+++,"",Omer Husen,Minister of Agriculture
-+++,"",Nassise Chali,Minister of Tourism
-+++,"",Habtamu Itefa,Minister of Water and Energy
-+++,"",La'qe Ayalew,Minister of Revenues
-+++,"",Gebremeskel Chala,Minister of Trade and Regional Integration
-+++,"",Melaku Alebel,Minister of Industry
-+++,"",Belete Molla,Minister of Innovation and Technology
-+++,"",Binalf Andualem,Minister of Peace
 +++,"",Gedion Timothewos,Minister of Justice
-+++,"",Kejella Merdassa,Minister of Culture and Sport

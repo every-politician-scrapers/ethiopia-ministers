@@ -1,1 +1,26 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
+Q104794313,Fitsum Assefa,Fitsum Assefa,female,1979-01-01,9,,,Q109992339,Minister of Planning and Development,Q104794313-308E3DF3-02B1-4642-AF44-ECB13DE9D069
+Q104822337,Ergoge Tesfaye,Ergoge Tesfaye,female,1978-01-01,9,,,Q109992184,Minister of Women and Social Affairs,Q104822337-52459F84-3078-4322-953D-AE204CEAE250
+Q109339517,Gedion Timotheos,Gedion Timotheos,male,,,,,Q54248633,Minister of Justice of Ethiopia,Q109339517-CCB66A51-4748-4DEB-B608-16FDB6093FA1
+Q109536191,Abraham Belay,Abraham Belay,male,,,,,Q54238011,Minister of Defence of Ethiopia,Q109536191-3A0F9CCF-FDE2-4E83-8E41-C894D7845AA1
+Q109993240,Omer Husen,Omer Husen,male,,,,,Q74674019,Minister of Agriculture of Ethiopia,Q109993240-CA564EB8-34E1-4451-99E7-3E23DF5C1A28
+Q109993561,Chaltu Sani,Chaltu Sani,female,,,,,Q109993563,Minister of Urbanization and Infrastructure,Q109993561-832477DE-4DA4-43C1-866E-1983A6BE8A08
+Q109993651,Habtamu Itefa,Habtamu Itefa,male,,,,,Q109993654,Minister of Water and Energy,Q109993651-1033F6EB-81D3-4798-B649-4C2C0453ABEB
+Q109993726,Lake Ayalew,Lake Ayalew,male,,,,,Q109993728,Minister of Revenues,Q109993726-D34EC84F-7B28-4584-98D8-B02B0687CF27
+Q109993837,Gebremeskel Chala,Gebremeskel Chala,male,,,,,Q54281839,Minister of Trade of Ethiopia,Q109993837-D85C0FA1-56D7-46E3-8127-55AC352F473B
+Q109993896,Melaku Alebel,Melaku Alebel,male,,,,,Q109993899,Minister of Industry,Q109993896-2726A444-330C-497F-AB6B-E020E00589EE
+Q109993975,Belete Molla,Belete Molla,male,,,,,Q109993978,Minister of Innovation and Technology,Q109993975-5730F95B-7A88-4F0D-A349-735437A914DF
+Q109994068,Kejela Merdasa,Kejela Merdasa,male,,,,,Q109994070,Minister of Culture and Sport,Q109994068-63B5F354-8833-45D3-A787-3D04659027B9
+Q109994204,Binalf Andualem,Binalf Andualem,male,,,,,Q109991790,Minister of Peace (Ethiopia),Q109994204-1BE35445-DD4D-4721-A573-AECF3534FCCE
+Q109994663,Nassise Chali,Nassise Chali,female,,,,,Q109994665,Minister of Tourism,Q109994663-D6113864-6134-4721-92EE-DABA0D1EE2AB
+Q16728486,Demeke Mekonnen,Demeke Mekonnen,male,1963-09-27,11,,,Q54245074,Minister of Foreign Affairs of Ethiopia,Q16728486-97FC86E3-B87C-4D97-A169-99D724F61800
+Q16728486,Demeke Mekonnen,Demeke Mekonnen,male,1963-09-27,11,,,Q109989349,Deputy Prime Minister of Ethiopia,Q16728486-D2C73350-2892-44B3-92DF-A571DF427195
+Q4891781,Berhanu Nega,Berhanu Nega,male,1958-12-06,11,,,Q75025327,Minister of Education of Ethiopia,Q4891781-3C356C6F-763A-48CD-90A0-3C1DF9172A53
+Q50365049,Abiy Ahmed Ali,Abiy Ahmed Ali,male,1976-08-15,11,,,Q1788970,Prime Minister of Ethiopia,Q50365049-db7425a8-4904-bce2-8550-943f17e99593
+Q55238035,Muferihat Kamil Ahmed,Muferihat Kamil Ahmed,female,1976-01-01,9,,,Q109992051,Minister of Labour and Skills Development,Q55238035-F6A67ABA-7DF8-41A0-B37E-7FE6BB4078E1
+Q56485727,Takele Uma Benti,Takele Uma Benti,male,1981-01-01,9,,,Q42509253,Minister of Mines,Q56485727-74F8E11D-71F9-4D9B-AFE8-DA276C6E0E5D
+Q57898816,Lia Tadesse Gebremedhin,Lia Tadesse Gebremedhin,female,1976-08-21,11,,,Q87771423,minister of Health of Ethiopia,Q57898816-99FA0FC3-CA71-482D-AEF2-8A93507B4798
+Q60852478,Aisha Mohammed Mussa,Aisha Mohammed Mussa,female,1960-01-01,7,,,Q109990365,Minister of Irrigation and Lowlands,Q60852478-E9514ACB-8065-46A8-B0FF-8BFCE318B061
+Q62123939,Dagmawit Moges,Dagmawit Moges,female,1983-12-10,11,,,Q109989668,Minister of Transport and Communications,Q62123939-79592c25-42f6-83f0-afb5-150da5196124
+Q66309846,Ahmed Shide,Ahmed Shide,male,,,,,Q109991279,Minister of Finance and Economic Development,Q66309846-27E78CFE-12F9-40C7-AFE5-40B268F18311
+Q7399685,Sahle-Work Zewde,Sahle-Work Zewde,female,1950-02-21,11,,,Q3409186,President of Ethiopia,Q7399685-b4375918-49d9-209c-3823-e773ef49c8a3
