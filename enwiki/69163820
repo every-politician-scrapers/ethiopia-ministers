@@ -1,0 +1,130 @@
+{
+  "title": "Gedion Timotheos",
+  "pageID": 69163820,
+  "categories": [
+    "Living people",
+    "Ethiopian politicians",
+    "Government ministries of Ethiopia",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gedion Timotheos (Amharic: ጌድዮን ቲሞጢዎስ) is an Ethiopian politician who had served as Ministry of Justice (Ethiopia) until 2 November 2021, who previously served as the Ethiopian attorney general before the position again was renamed to the Minister of Justice.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Justice (Ethiopia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gedion Timotheos"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ethiopian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gedion Timotheos"
+          },
+          "native_name": {
+            "text": "ጌድዮን ቲሞጢዎስ"
+          },
+          "office2": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Ethiopia)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Gideon Timotheos.png"
+          },
+          "primeminister": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abiy Ahmed"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sahle-Work Zewde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sahle-Work Zewde"
+              }
+            ]
+          },
+          "country": {
+            "text": "Ethiopia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ethiopia"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "6 October 2021"
+          },
+          "term_end2": {
+            "text": "2 November 2021"
+          },
+          "office1": {
+            "text": "State Attorney General of Ethiopia"
+          },
+          "term_start1": {
+            "text": "2 November 2021"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Council {{!}} FDRE Office of the Prime Minister",
+          "url": "https://www.pmo.gov.et/council/",
+          "url-status": "live",
+          "website": "Office of Prime Minister",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "October 6, 2021",
+          "title": "FDRE Ministry of Justice ኢ.ፌ.ዴ.ሪ ፍትህ ሚኒስቴር",
+          "url": "https://twitter.com/MOJEthiopia/status/1445945924098920460",
+          "url-status": "live",
+          "access-date": "October 6, 2021",
+          "website": "Twitter",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

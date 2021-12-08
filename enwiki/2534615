@@ -1,0 +1,298 @@
+{
+  "title": "Berhanu Nega",
+  "pageID": 2534615,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "Addis Ababa University alumni",
+    "Amnesty International prisoners of conscience held by Ethiopia",
+    "Bucknell University faculty",
+    "Ethiopian prisoners sentenced to death",
+    "Mayors of Addis Ababa",
+    "People from Addis Ababa",
+    "People sentenced to death in absentia",
+    "Prisoners sentenced to death by Ethiopia",
+    "Rainbow Ethiopia: Movement for Democracy and Social Justice politicians",
+    "Recipients of Ethiopian presidential pardons",
+    "State University of New York at New Paltz alumni",
+    "The New School alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Berhanu Nega (ብርሃኑ ነጋ; born 1 March 1958) is an Ethiopian politician and the current Minister of Education of Ethiopia.",
+              "links": [
+                {
+                  "text": "Minister of Education",
+                  "type": "internal",
+                  "page": "Ministry of Education (Ethiopia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Berhanu Nega"
+                ]
+              }
+            },
+            {
+              "text": "He previously was the mayor elect of Addis Ababa, Ethiopia, in the 2005 Ethiopian general elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Addis Ababa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ethiopia"
+                },
+                {
+                  "text": "2005 Ethiopian general elections",
+                  "type": "internal",
+                  "page": "2005 Ethiopian general elections"
+                }
+              ]
+            },
+            {
+              "text": "He is a founding chairman of the Rainbow Ethiopia: Movement for Democracy and Social Justice and a Deputy Chairman of Coalition for Unity and Democracy (CUD), for whom he served as chief election campaign strategist.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rainbow Ethiopia: Movement for Democracy and Social Justice"
+                },
+                {
+                  "type": "internal",
+                  "page": "Coalition for Unity and Democracy"
+                }
+              ]
+            },
+            {
+              "text": "He is also the co-founder and leader of Ginbot 7, an anti-government rebel group.",
+              "links": [
+                {
+                  "text": "Ginbot 7",
+                  "type": "internal",
+                  "page": "Ginbot 7 Movement for Justice, Freedom and Democracy"
+                }
+              ]
+            },
+            {
+              "text": "Until mid-2018, he was labelled a terrorist by the Ethiopian government."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ethiopian politician and academician",
+          "template": "short description"
+        },
+        {
+          "year": "1958",
+          "month": "12",
+          "day": "06",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Berhanu Nega"
+          },
+          "native_name": {
+            "text": "ብርሃኑ ነጋ"
+          },
+          "native_name_lang": {
+            "text": "am"
+          },
+          "office": {
+            "text": "Minister of Education",
+            "links": [
+              {
+                "text": "Minister of Education",
+                "type": "internal",
+                "page": "Ministry of Education (Ethiopia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 October 2021"
+          },
+          "predecessor": {
+            "text": "Getahun Mekuria"
+          },
+          "president": {
+            "text": "Sahle-Work Zewde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sahle-Work Zewde"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abiy Ahmed"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Mayor-elect of Addis Ababa",
+            "links": [
+              {
+                "text": "Mayor-elect of Addis Ababa",
+                "type": "internal",
+                "page": "Mayor of Addis Ababa"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "20 August 2005"
+          },
+          "term_end1": {
+            "text": "13 October 2005"
+          },
+          "predecessor1": {
+            "text": "Arkebe Oqubay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arkebe Oqubay"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Berhane Deressa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Berhane Deressa"
+              }
+            ]
+          },
+          "party": {
+            "text": "Ethiopian Citizens for Social Justice",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ethiopian Citizens for Social Justice"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Ethiopian People's Revolutionary Party Coalition for Unity and Democracy Ginbot 7 Movement for Justice, Freedom and Democracy Ethiopian Citizens for Social Justice",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ethiopian People's Revolutionary Party"
+              },
+              {
+                "type": "internal",
+                "page": "Coalition for Unity and Democracy"
+              },
+              {
+                "type": "internal",
+                "page": "Ginbot 7 Movement for Justice, Freedom and Democracy"
+              },
+              {
+                "type": "internal",
+                "page": "Ethiopian Citizens for Social Justice"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Addis Ababa University\nSUNY New Paltz (B.S.)\nThe New School (Ph.D.)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Addis Ababa University"
+              },
+              {
+                "type": "internal",
+                "page": "SUNY New Paltz"
+              },
+              {
+                "text": "The New School",
+                "type": "internal",
+                "page": "New School for Social Research"
+              },
+              {
+                "text": "Ph.D.",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Economics professor · politician"
+          },
+          "nationality": {
+            "text": "Ethiopian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ethiopian"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Nardos Minasse"
+          },
+          "birth_date": {
+            "text": "December 6, 1958"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "birth_place": {
+            "text": "Bishoftu, Ethiopian Empire",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bishoftu"
+              },
+              {
+                "type": "internal",
+                "page": "Ethiopian Empire"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last1": "Hammer",
+          "first1": "Joshua",
+          "title": "Once a Bucknell Professor, Now the Commander of an Ethiopian Rebel Army",
+          "url": "https://www.nytimes.com/2016/09/04/magazine/once-a-bucknell-professor-now-the-commander-of-an-ethiopian-rebel-army.html?_r=0",
+          "work": "The New York Times",
+          "accessdate": "31 August 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "House",
+          "first1": "Freedom",
+          "title": "Freedom in the World 2016",
+          "date": "3 January 2017",
+          "publisher": "Rowman & Littlefield",
+          "page": "231",
+          "isbn": "9781442261532",
+          "url": "https://books.google.com/books?id=9AS6DQAAQBAJ&pg=PA231&dq=berhanu+nega+terrorist#q=berhanu%20nega%20terrorist",
+          "accessdate": "1 January 2017",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    }
+  ]
+}

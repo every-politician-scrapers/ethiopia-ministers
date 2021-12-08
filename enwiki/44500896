@@ -1,0 +1,180 @@
+{
+  "title": "Birhanu Jula Gelalcha",
+  "pageID": 44500896,
+  "categories": [
+    "Ethiopian generals",
+    "Ethiopian officials of the United Nations",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Birhanu Jula Gelalcha is an Ethiopian general of the Ethiopian National Defense Force.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ethiopian"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ethiopian National Defense Force"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Birhanu Jula Gelalcha"
+                ]
+              }
+            },
+            {
+              "text": "He is currently the Chief of General Staff of Ethiopia since 4 November 2020."
+            },
+            {
+              "text": "He served as the Force Commander of the United Nations Interim Security Force for Abyei (UNISFA) from 2014 to 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations Interim Security Force for Abyei"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ethiopian general",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "General"
+          },
+          "name": {
+            "text": "Birhanu Jula Gelalcha"
+          },
+          "office": {
+            "text": "Chief of General Staff",
+            "links": [
+              {
+                "text": "Chief of General Staff",
+                "type": "internal",
+                "page": "Chief of General Staff (Ethiopia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abiy Ahmed"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 November 2020"
+          },
+          "predecessor": {
+            "text": "General Adem Mohammed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "General"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Force Commander, United Nations Interim Security Force for Abyei",
+            "links": [
+              {
+                "type": "internal",
+                "page": "United Nations Interim Security Force for Abyei"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 November 2014"
+          },
+          "term_end1": {
+            "text": "15 January 2016"
+          },
+          "nominator1": {
+            "text": "Ban Ki-moon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ban Ki-moon"
+              }
+            ]
+          },
+          "appointer1": {
+            "text": "Abiy Ahmed"
+          },
+          "predecessor1": {
+            "text": "Yohannes Gebremeskel Tesfamariam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yohannes Gebremeskel Tesfamariam"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Hassen Ebrahim Mussa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hassen Ebrahim Mussa"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Ethiopia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ethiopia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "🇪🇹 Ethiopian",
+            "links": [
+              {
+                "text": "🇪🇹",
+                "type": "internal",
+                "page": "ethiopia"
+              },
+              {
+                "text": "Ethiopian",
+                "type": "internal",
+                "page": "Ethiopia"
+              }
+            ]
+          },
+          "wars": {
+            "text": "Tigray War"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.un.org/press/en/2014/sga1525.doc.htm",
+          "title": "Secretary-General Appoints Major General Birhanu Jula Gelalcha of Ethiopia Force Commander of United Nations Interim Security Force for Abyei",
+          "publisher": "United Nations",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

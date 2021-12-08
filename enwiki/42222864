@@ -1,0 +1,369 @@
+{
+  "title": "Demeke Mekonnen",
+  "pageID": 42222864,
+  "categories": [
+    "Ethiopian politicians",
+    "Amhara Democratic Party politicians",
+    "Living people",
+    "Ethiopian Muslims",
+    "Government ministers of Ethiopia",
+    "People from Amhara Region",
+    "Addis Ababa University alumni",
+    "1963 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Demeke Mekonnen Hassen (born 27 September 1963) is an Ethiopian politician, serving as the deputy prime minister of Ethiopia, Minister of Foreign Affairs, and vice-president of the Prosperity Party.",
+              "links": [
+                {
+                  "text": "deputy prime minister",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ethiopia"
+                },
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Ethiopia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prosperity Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Demeke Mekonnen Hassen"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as chairman of the Amhara Democratic Party (ADP) and deputy chair of the Ethiopian People's Revolutionary Democratic Front (EPRDF) until the dissolution of the two in December 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amhara Democratic Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ethiopian People's Revolutionary Democratic Front"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ethiopian politician; Deputy Prime Minister of Ethiopia since 2012",
+          "template": "short description"
+        },
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Demeke",
+            "Mekonnen",
+            "his",
+            "father"
+          ],
+          "template": "patronymic name"
+        },
+        {
+          "year": "1963",
+          "month": "09",
+          "day": "27",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "ደመቀ መኮንን ሀሰን"
+          ],
+          "template": "lang-amh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Demeke Mekonnen Hassen"
+          },
+          "image": {
+            "text": "File:Demeke Mekonnen Hassen - 2020 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Demeke in 2020"
+          },
+          "office": {
+            "text": "Deputy Prime Minister of Ethiopia",
+            "links": [
+              {
+                "text": "Deputy Prime Minister of Ethiopia",
+                "type": "internal",
+                "page": "Deputy prime minister"
+              }
+            ]
+          },
+          "alongside": {
+            "text": "Debretsion Gebremichael and Aster Mamo (2012–16)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Debretsion Gebremichael"
+              },
+              {
+                "type": "internal",
+                "page": "Aster Mamo"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hailemariam Desalegn Abiy Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hailemariam Desalegn"
+              },
+              {
+                "type": "internal",
+                "page": "Abiy Ahmed"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "21 September 2012"
+          },
+          "predecessor": {
+            "text": "Hailemariam Desalegn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hailemariam Desalegn"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Ethiopia)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abiy Ahmed"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 November 2020"
+          },
+          "predecessor1": {
+            "text": "Gedu Andargachew",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gedu Andargachew"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abiy Ahmed"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "8 March 2019"
+          },
+          "term_end2": {
+            "text": "18 April 2019"
+          },
+          "predecessor2": {
+            "text": "Workneh Gebeyehu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Workneh Gebeyehu"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Gedu Andargachew",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gedu Andargachew"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Chairman of the Amhara Democratic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amhara Democratic Party"
+              }
+            ]
+          },
+          "deputy3": {
+            "text": "Gedu Andargachew",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gedu Andargachew"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "8 September 2010"
+          },
+          "term_end3": {
+            "text": "1 December 2019"
+          },
+          "predecessor3": {
+            "text": "Addisu Legesse",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Addisu Legesse"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "post abolished",
+            "formatting": {
+              "italic": [
+                "post abolished"
+              ]
+            }
+          },
+          "office4": {
+            "text": "Minister of Education",
+            "links": [
+              {
+                "text": "Minister of Education",
+                "type": "internal",
+                "page": "Ministry of Education (Ethiopia)"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Meles Zenawi Hailemariam Desalegn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Meles Zenawi"
+              },
+              {
+                "type": "internal",
+                "page": "Hailemariam Desalegn"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "30 October 2008"
+          },
+          "term_end4": {
+            "text": "4 July 2013"
+          },
+          "successor4": {
+            "text": "Shiferaw Shigute",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shiferaw Shigute"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 27, 1963"
+          },
+          "birth_place": {
+            "text": "Gojjam, Ethiopian Empire",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gojjam"
+              },
+              {
+                "type": "internal",
+                "page": "Ethiopian Empire"
+              }
+            ]
+          },
+          "party": {
+            "text": "Prosperity Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prosperity Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Ethiopian People's Revolutionary Democratic Front Amhara Democratic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ethiopian People's Revolutionary Democratic Front"
+              },
+              {
+                "type": "internal",
+                "page": "Amhara Democratic Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Alemitu Kassaye"
+          },
+          "alma_mater": {
+            "text": "Bradford University Addis Ababa University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bradford University"
+              },
+              {
+                "type": "internal",
+                "page": "Addis Ababa University"
+              }
+            ]
+          },
+          "native_name": {
+            "text": "ደመቀ መኮንን ሀሰን"
+          },
+          "native_name_lang": {
+            "text": "am"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "November 2020",
+          "template": "citation needed"
+        }
+      ]
+    }
+  ]
+}

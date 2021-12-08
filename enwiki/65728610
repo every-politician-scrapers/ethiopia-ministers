@@ -1,0 +1,235 @@
+{
+  "title": "Adanech Abebe",
+  "pageID": 65728610,
+  "categories": [
+    "Living people",
+    "20th-century Ethiopian women",
+    "21st-century Ethiopian women",
+    "Ethiopian politicians",
+    "Mayors of Addis Ababa",
+    "Ethiopian women in politics",
+    "Attorneys general",
+    "Finance ministers of Ethiopia",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Adanech Abebe (Adaanach Abbabee) is an Ethiopian politician who is serving as the thirty-second Mayor of Addis Ababa.",
+              "links": [
+                {
+                  "text": "Ethiopian",
+                  "type": "internal",
+                  "page": "Ethiopia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mayor of Addis Ababa"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Adanech Abebe"
+                ]
+              }
+            },
+            {
+              "text": "She has been serving as a Deputy Mayor from 18 August 2020 until 28 September 2021."
+            },
+            {
+              "text": "She previously was the Minister of the Ministry of Revenue and Customs Authority of the government of Ethiopia from October 2018 to March 2020, when she assumed the role of the Federal Attorney General of Ethiopia.",
+              "links": [
+                {
+                  "text": "government of Ethiopia",
+                  "type": "internal",
+                  "page": "government of Ethiopia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Attorney General"
+                }
+              ]
+            },
+            {
+              "text": "She also is the first woman to hold the mayorship since it was created in 1910."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ethiopian politician; current Mayor of Addis Ababa",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Adanech",
+            "Abebe",
+            "hers"
+          ],
+          "template": "patronymic name"
+        },
+        {
+          "list": [
+            "2021",
+            "09",
+            "28"
+          ],
+          "df": "y",
+          "template": "starting date"
+        },
+        {
+          "list": [
+            "2020",
+            "08",
+            "18"
+          ],
+          "df": "y",
+          "template": "starting date"
+        },
+        {
+          "list": [
+            "2020",
+            "03",
+            "12"
+          ],
+          "df": "y",
+          "template": "starting date"
+        },
+        {
+          "list": [
+            "2020",
+            "08",
+            "18"
+          ],
+          "df": "y",
+          "template": "starting date"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Mayor of Addis Ababa"
+          },
+          "status": {
+            "text": "Mayor"
+          },
+          "order": {
+            "text": "32nd"
+          },
+          "president": {
+            "text": "Sahle-Work Zewde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sahle-Work Zewde"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "text": "Abiy Ahmed",
+                "type": "internal",
+                "page": "Abiy Ahmed Ali "
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Mayor of Addis Ababa"
+          },
+          "term_end1": {
+            "text": "28 September 2021"
+          },
+          "president1": {
+            "text": "Sahle-Work Zewde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sahle-Work Zewde"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "text": "Abiy Ahmed",
+                "type": "internal",
+                "page": "Abiy Ahmed Ali "
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Takele Uma Banti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Takele Uma Banti"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Federal Attorney General of Ethiopia"
+          },
+          "predecessor2": {
+            "text": "Birhanu Tsegay"
+          },
+          "successor2": {
+            "text": "Gedion Timothewos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gedion Timothewos"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of the Ministry of Revenue and Customs Authority"
+          },
+          "term_start3": {
+            "text": "October 2018"
+          },
+          "term_end3": {
+            "text": "March 2020"
+          },
+          "native_name": {
+            "text": "Adaanach Abbabee"
+          },
+          "native_name_lang": {
+            "text": "om"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "\"I will perform my duty and ask my right\" {{!}} Addis Ababa University",
+          "url": "http://www.aau.edu.et/blog/i-will-perform-my-duty-and-ask-my-right/",
+          "access-date": "2020-10-31",
+          "website": "www.aau.edu.et",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "October 31, 2020",
+          "title": "Adanech Abebie appointed as Deputy Mayor of Addis Ababa City",
+          "url": "https://www.press.et/english/wp-content/uploads/2020/08/August19_opt.pdf",
+          "url-status": "live",
+          "website": "Press Ethiopia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "July 2021",
+          "template": "citation needed"
+        }
+      ]
+    }
+  ]
+}
