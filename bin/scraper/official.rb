@@ -7,17 +7,25 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('h2,h4').text.tidy.delete_prefix('H.E. ')
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('h5').text.tidy
+    end
+
+    def empty?
+      name.empty?
     end
   end
 
   class Members
+    def member_items
+      super.reject(&:empty?)
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('.elementor-element')
     end
   end
 end
