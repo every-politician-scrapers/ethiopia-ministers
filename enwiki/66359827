@@ -5,7 +5,11 @@
     "1979 births",
     "Living people",
     "Ethiopian politicians",
-    "Ministers for Planning and Development Commission"
+    "Ministers for Planning and Development Commission",
+    "21st-century Ethiopian politicians",
+    "21st-century Ethiopian women politicians",
+    "Addis Ababa University alumni",
+    "University of Giessen alumni"
   ],
   "sections": [
     {
@@ -180,13 +184,8 @@
             ]
           },
           "citizenship": {
-            "text": "🇪🇹 Ethiopian",
+            "text": "Ethiopian",
             "links": [
-              {
-                "text": "🇪🇹",
-                "type": "internal",
-                "page": "ethiopia"
-              },
               {
                 "type": "internal",
                 "page": "Ethiopian"
@@ -274,7 +273,7 @@
         {
           "last": "Welle (www.dw.com)",
           "first": "Deutsche",
-          "title": "Ethiopia: Women take half of ministerial roles in cabinet reshuffle {{!}} DW {{!}} 17.10.2018",
+          "title": "Ethiopia: Women take half of ministerial roles in cabinet reshuffle",
           "url": "https://www.dw.com/en/ethiopia-women-take-half-of-ministerial-roles-in-cabinet-reshuffle/a-45929485",
           "url-status": "live",
           "access-date": "12 January 2021",
@@ -288,7 +287,6 @@
           "url": "https://combanketh.et/fitsumasefa/",
           "url-status": "live",
           "access-date": "2021-01-12",
-          "language": "en-US",
           "template": "citation",
           "type": "web"
         },
