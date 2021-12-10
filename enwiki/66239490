@@ -6,7 +6,9 @@
     "Living people",
     "Ministers of Labor and Social Affairs of Ethiopia",
     "Ethiopian politicians",
-    "People from Southern Nations, Nationalities, and Peoples' Region"
+    "People from Southern Nations, Nationalities, and Peoples' Region",
+    "21st-century Ethiopian politicians",
+    "21st-century Ethiopian women politicians"
   ],
   "sections": [
     {
@@ -204,13 +206,8 @@
             "text": "August 22, 1978"
           },
           "nationality": {
-            "text": "🇪🇹 Ethiopian",
+            "text": "Ethiopian",
             "links": [
-              {
-                "text": "🇪🇹",
-                "type": "internal",
-                "page": "ethiopia"
-              },
               {
                 "type": "internal",
                 "page": "Ethiopian"
