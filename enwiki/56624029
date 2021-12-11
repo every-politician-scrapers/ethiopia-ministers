@@ -4,7 +4,7 @@
   "categories": [
     "1976 births",
     "Living people",
-    "21st-century politicians",
+    "21st-century Ethiopian politicians",
     "Prime Ministers of Ethiopia",
     "Ethiopian military personnel",
     "Ethiopian People's Revolutionary Democratic Front politicians",
@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Abiy Ahmed Ali (Abiyi Ahmed Alii ; አብይ አሕመድ ዐሊ ; born 15 August 1976) is an Ethiopian politician serving as the 4th prime minister of the Federal Democratic Republic of Ethiopia since 2 April 2018.",
+              "text": "Abiy Ahmed Ali (Abiyi Ahmed Alii; አብይ አሕመድ ዐሊ; born 15 August 1976) is an Ethiopian politician serving as the 4th prime minister of the Federal Democratic Republic of Ethiopia since 2 April 2018.",
               "links": [
                 {
                   "text": "prime minister of the Federal Democratic Republic of Ethiopia",
@@ -179,14 +179,6 @@
           "day": "15",
           "df": "y",
           "template": "birth date and age"
-        },
-        {
-          "transcription": "ɐβɪjɪ ɐhmɛð ɐliː",
-          "template": "ipa"
-        },
-        {
-          "transcription": "abɨj ahɨməd ali",
-          "template": "ipa"
         }
       ],
       "infoboxes": [
