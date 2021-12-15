@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Lia Tadesse Gebremedhin (ሊያ ታደሰ ገብረመድኅን; born 1976) is an Ethiopian politician serving as Minister of Health since March 2020.",
+              "text": "Lia Tadesse Gebremedhin (ሊያ ታደሰ ገብረመድኅን; born 1976) is an Ethiopian politician serving as the Minister of Health since March 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -37,15 +37,15 @@
               }
             },
             {
-              "text": "Prior to her appointment, Lia served as State Ministry of Health from November 2018."
+              "text": "Prior to her appointment, Lia served as State Minister of Health from November 2018."
             },
             {
-              "text": "She also served as a Program Director at the University of Michigan's Center for International Reproductive Health Training (CIRHT) in Ann Arbor, Michigan, as a CEO and Vice Provost in St. Paul's Hospital Millennium Medical College (SPHMMC) in Addis Ababa and as a Project Director of USAID's Maternal and Child Survival Program (MCSP) at Jhpiego-Ethiopia.",
+              "text": "She also served as an Executive Director at the University of Michigan's Center for International Reproductive Health Training (CIRHT) in Ann Arbor, Michigan, as a CEO and Vice Provost in St. Paul's Hospital Millennium Medical College (SPHMMC) in Addis Ababa and as a Project Director of USAID's Maternal and Child Survival Program (MCSP) at Jhpiego-Ethiopia.",
               "links": [
                 {
-                  "text": "Program Director",
+                  "text": "Executive Director",
                   "type": "internal",
-                  "page": "Program director"
+                  "page": "Executive director"
                 },
                 {
                   "type": "internal",
@@ -119,7 +119,7 @@
             "text": "Lia Tadesse Gebremedhin"
           },
           "office2": {
-            "text": "State Ministry of Health of Ethiopia"
+            "text": "State Minister of Health of Ethiopia"
           },
           "president2": {
             "text": "Sahle-Work Zewde",
@@ -146,10 +146,10 @@
             "text": "March 2020"
           },
           "office1": {
-            "text": "Ministry of Health",
+            "text": "Minister of Health",
             "links": [
               {
-                "text": "Ministry of Health",
+                "text": "Minister of Health",
                 "type": "internal",
                 "page": "Ministry of Health (Ethiopia)"
               }
