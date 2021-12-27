@@ -90,7 +90,7 @@
         },
         {
           "list": [
-            "ደመቀ መኮንን ሐሰን"
+            "ደመቀ መኮንን ሀሰን"
           ],
           "template": "lang-amh"
         }
@@ -352,7 +352,7 @@
             ]
           },
           "native_name": {
-            "text": "ደመቀ መኮንን ሐሰን"
+            "text": "ደመቀ መኮንን ሀሰን"
           },
           "native_name_lang": {
             "text": "am"
