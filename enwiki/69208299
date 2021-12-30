@@ -17,27 +17,13 @@
         {
           "sentences": [
             {
-              "text": "Abraham Belay is an Ethiopian politician serving as the current the Minister of Defense and the chief executive of the Transitional Government of Tigray.",
+              "text": "Abraham Belay is an Ethiopian politician serving as the current the Minister of DefenseHe previously served as the Minister of Innovation and Technology, and the President of the Tigray Region Prosperity Party.",
               "links": [
                 {
-                  "text": "Minister of Defense",
+                  "text": "Minister of DefenseHe",
                   "type": "internal",
                   "page": "Ministry of Defense (Ethiopia)"
                 },
-                {
-                  "type": "internal",
-                  "page": "Transitional Government of Tigray"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Abraham Belay"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as the Minister of Innovation and Technology, and the President of the Tigray Region Prosperity Party.",
-              "links": [
                 {
                   "text": "Minister of Innovation and Technology",
                   "type": "internal",
@@ -51,7 +37,12 @@
                   "type": "internal",
                   "page": "Prosperity Party"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Abraham Belay"
+                ]
+              }
             }
           ]
         },
@@ -106,15 +97,6 @@
       ],
       "infoboxes": [
         {
-          "office": {
-            "text": "2nd Chief Executive of the Transitional Government of Tigray",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Transitional Government of Tigray"
-              }
-            ]
-          },
           "appointer": {
             "text": "Abiy Ahmed",
             "links": [
@@ -133,15 +115,6 @@
               {
                 "type": "internal",
                 "page": "Mulu Nega"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chief Executive of the Tigray Region",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tigray Region"
               }
             ]
           },
