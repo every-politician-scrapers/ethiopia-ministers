@@ -166,30 +166,6 @@
             "text": "Leadership is not given, it is something you take it."
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2020-01-15",
-          "title": "Dagmawit Moges",
-          "url": "https://live.worldbank.org/experts/dagmawit-moges",
-          "access-date": "2020-08-18",
-          "website": "World Bank Live",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

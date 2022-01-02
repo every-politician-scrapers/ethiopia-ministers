@@ -243,57 +243,6 @@
             "text": "Fitsum Assefa Adela.jpg"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Council {{!}} FDRE Office of the Prime Ministers",
-          "url": "https://pmo.gov.et/council/",
-          "access-date": "2021-01-12",
-          "website": "pmo.gov.et",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Current PhD Candidates",
-          "url": "https://www.uni-giessen.de/faculties/f09/institutes/agri/agriculture/daad/network/currentcand/currentcandnew",
-          "access-date": "2021-01-12",
-          "website": "Justus-Liebig-Universität Gießen",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "SDG Center for Africa",
-          "url": "https://sdgcafrica.org/ournews/visit-of-honorable-dr-fitsum-assefa-adela-the-minister-in-charge-of-plan-and-development-commission-of-the-federal-government-of-ethiopia/",
-          "access-date": "2021-01-12",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Welle (www.dw.com)",
-          "first": "Deutsche",
-          "title": "Ethiopia: Women take half of ministerial roles in cabinet reshuffle",
-          "url": "https://www.dw.com/en/ethiopia-women-take-half-of-ministerial-roles-in-cabinet-reshuffle/a-45929485",
-          "url-status": "live",
-          "access-date": "12 January 2021",
-          "website": "DW.COM",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Fitsum Assefa – Commercial Bank of Ethiopia",
-          "url": "https://combanketh.et/fitsumasefa/",
-          "url-status": "live",
-          "access-date": "2021-01-12",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "February 2021",
-          "template": "citation needed"
-        }
       ]
     }
   ]

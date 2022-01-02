@@ -155,26 +155,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://books.google.com/books?id=x9IXAQAAIAAJ",
-          "title": "Map of Somali dialects in the Somali Democratic Republic",
-          "last": "Lamberti",
-          "first": "Marcello",
-          "publisher": "H. Buske",
-          "year": "1986",
-          "isbn": "3871186902",
-          "pages": "15",
-          "template": "citation",
-          "type": "book"
-        }
       ]
     }
   ]
