@@ -215,39 +215,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Team",
-          "first1": "AWiB",
-          "title": "Working A Peaceful Path: Dr. Ergogie Tesfaye",
-          "url": "http://awib.org.et/newsite/working-a-peaceful-path-dr-ergogie-tesfaye/",
-          "website": "AWiB",
-          "date": "1 July 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Council {{!}} FDRE Office of the Prime Ministers",
-          "url": "https://pmo.gov.et/council/",
-          "url-status": "live",
-          "access-date": "30 December 2020",
-          "website": "pmo.gov.et",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Team",
-          "first": "AWiB",
-          "date": "2020-07-01",
-          "title": "Working A Peaceful Path: Dr. Ergogie Tesfaye",
-          "url": "http://awib.org.et/newsite/working-a-peaceful-path-dr-ergogie-tesfaye/",
-          "access-date": "2020-12-30",
-          "website": "AWiB",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

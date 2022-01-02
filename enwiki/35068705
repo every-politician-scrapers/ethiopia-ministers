@@ -286,28 +286,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.bbc.com/news/world-africa-45976620",
-          "title": "Ethiopia gets first female president",
-          "date": "25 October 2018",
-          "publisher": "BBC",
-          "access-date": "25 October 2018",
-          "archive-url": "https://web.archive.org/web/20181025095111/https://www.bbc.com/news/world-africa-45976620",
-          "archive-date": "25 October 2018",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.forbes.com/power-women/list/",
-          "title": "The World's 100 Most Powerful Women",
-          "website": "Forbes",
-          "access-date": "24 December 2020",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

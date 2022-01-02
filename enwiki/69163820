@@ -95,32 +95,6 @@
             "text": "2 November 2021"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Council {{!}} FDRE Office of the Prime Minister",
-          "url": "https://www.pmo.gov.et/council/",
-          "url-status": "live",
-          "website": "Office of Prime Minister",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "October 6, 2021",
-          "title": "FDRE Ministry of Justice ኢ.ፌ.ዴ.ሪ ፍትህ ሚኒስቴር",
-          "url": "https://twitter.com/MOJEthiopia/status/1445945924098920460",
-          "url-status": "live",
-          "access-date": "October 6, 2021",
-          "website": "Twitter",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

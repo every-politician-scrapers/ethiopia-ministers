@@ -271,31 +271,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Hammer",
-          "first1": "Joshua",
-          "title": "Once a Bucknell Professor, Now the Commander of an Ethiopian Rebel Army",
-          "url": "https://www.nytimes.com/2016/09/04/magazine/once-a-bucknell-professor-now-the-commander-of-an-ethiopian-rebel-army.html?_r=0",
-          "work": "The New York Times",
-          "accessdate": "31 August 2016",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "House",
-          "first1": "Freedom",
-          "title": "Freedom in the World 2016",
-          "date": "3 January 2017",
-          "publisher": "Rowman & Littlefield",
-          "page": "231",
-          "isbn": "9781442261532",
-          "url": "https://books.google.com/books?id=9AS6DQAAQBAJ&pg=PA231&dq=berhanu+nega+terrorist#q=berhanu%20nega%20terrorist",
-          "accessdate": "1 January 2017",
-          "template": "citation",
-          "type": "book"
-        }
       ]
     }
   ]
