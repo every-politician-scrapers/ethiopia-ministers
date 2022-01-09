@@ -97,29 +97,24 @@
       ],
       "infoboxes": [
         {
-          "appointer": {
-            "text": "Abiy Ahmed",
+          "office1": {
+            "text": "President of the Tigray Region",
             "links": [
               {
                 "type": "internal",
-                "page": "Abiy Ahmed"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "6 May 2021"
-          },
-          "predecessor": {
-            "text": "Mulu Nega",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mulu Nega"
+                "page": "Tigray Region"
               }
             ]
           },
           "status1": {
-            "text": "Disputed"
+            "text": "Incumbent (contested)",
+            "links": [
+              {
+                "text": "Incumbent",
+                "type": "internal",
+                "page": "Incumbent politician"
+              }
+            ]
           },
           "appointer1": {
             "text": "Abiy Ahmed"
@@ -146,6 +141,10 @@
           "predecessor1": {
             "text": "Mulu Nega (Transitional Government of Tigray) Debretsion Gebremichael (Tigray People's Liberation Front)",
             "links": [
+              {
+                "type": "internal",
+                "page": "Mulu Nega"
+              },
               {
                 "type": "internal",
                 "page": "Debretsion Gebremichael"
