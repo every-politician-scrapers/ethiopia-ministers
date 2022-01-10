@@ -15,10 +15,10 @@
         {
           "sentences": [
             {
-              "text": "Birhanu Jula Gelalcha (ብርሃኑ ጁላ) is an Ethiopian field marshal general of the Ethiopian National Defense Force.",
+              "text": "Birhanu Jula Gelalcha (ብርሃኑ ጁላ) is an Ethiopian field marshal of the Ethiopian National Defense Force.",
               "links": [
                 {
-                  "text": "field marshal general",
+                  "text": "field marshal",
                   "type": "internal",
                   "page": "Field marshal"
                 },
@@ -106,7 +106,13 @@
         },
         {
           "honorific-prefix": {
-            "text": "Field Marshal General"
+            "text": "Field Marshal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Field Marshal"
+              }
+            ]
           },
           "name": {
             "text": "Birhanu Jula Gelalcha"
@@ -116,6 +122,9 @@
           },
           "native_name_lang": {
             "text": "am"
+          },
+          "image": {
+            "text": "Birhanu Jula Gelalcha parade 2019 (cropped).jpg"
           },
           "office": {
             "text": "Chief of General Staff",
