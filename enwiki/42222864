@@ -301,7 +301,7 @@
             "text": "September 27, 1963"
           },
           "birth_place": {
-            "text": "Gojjam, Ethiopian Empire",
+            "text": "Gojjam, Ethiopia",
             "links": [
               {
                 "type": "internal",
@@ -309,7 +309,7 @@
               },
               {
                 "type": "internal",
-                "page": "Ethiopian Empire"
+                "page": "Ethiopia"
               }
             ]
           },
