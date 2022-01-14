@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Adanech Abebe (Adaanach Abbabee) is an Ethiopian politician who is serving as the thirty-second Mayor of Addis Ababa.",
+              "text": "Adanech Abebe is an Ethiopian politician who is serving as the thirty-second Mayor of Addis Ababa.",
               "links": [
                 {
                   "text": "Ethiopian",
@@ -57,7 +57,7 @@
               ]
             },
             {
-              "text": "She also is the first woman to hold the mayorship since it was created in 1910."
+              "text": "She also is the first unqualified woman to hold the mayorship since it was created in 1910."
             }
           ]
         }
@@ -110,6 +110,12 @@
           ],
           "df": "y",
           "template": "starting date"
+        },
+        {
+          "list": [
+            "Adaanach Abbabee"
+          ],
+          "template": "lang-amhara"
         }
       ],
       "infoboxes": [
