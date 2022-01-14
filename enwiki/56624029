@@ -82,17 +82,12 @@
         {
           "sentences": [
             {
-              "text": "As the first Ethiopian and the first African head of state, he won the 2019 Nobel Peace Prize for his work in ending the 20-year post-war territorial stalemate between Ethiopia and Eritrea.",
+              "text": "As the first Ethiopian he won the 2019 Nobel Peace Prize for his work in ending the 20-year post-war territorial stalemate between Ethiopia and Eritrea.",
               "links": [
                 {
                   "text": "Ethiopian",
                   "type": "internal",
                   "page": "People of Ethiopia"
-                },
-                {
-                  "text": "head of state",
-                  "type": "internal",
-                  "page": "head of state"
                 },
                 {
                   "text": "2019 Nobel Peace Prize",
