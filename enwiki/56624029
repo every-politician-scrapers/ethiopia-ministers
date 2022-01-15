@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Abiy Ahmed Ali (Abiyi Ahmed Alii; አብይ አሕመድ ዐሊ; born 15 August 1976) is an Ethiopian politician serving as the 4th prime minister of the Federal Democratic Republic of Ethiopia since 2 April 2018.",
+              "text": "Abiy Ahmed Ali (Abiyi Ahmed Alii; አብይ አሕመድ ዐሊ; born 15 August 1976) is an Ethiopian politician who has been the 4th prime minister of the Federal Democratic Republic of Ethiopia since 2 April 2018.",
               "links": [
                 {
                   "text": "prime minister of the Federal Democratic Republic of Ethiopia",
@@ -76,19 +76,10 @@
                   "page": "Prosperity Party"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "As the first Ethiopian he won the 2019 Nobel Peace Prize for his work in ending the 20-year post-war territorial stalemate between Ethiopia and Eritrea.",
+              "text": "He won the 2019 Nobel Peace Prize for his work in ending the 20-year post-war territorial stalemate between Ethiopia and Eritrea.",
               "links": [
-                {
-                  "text": "Ethiopian",
-                  "type": "internal",
-                  "page": "People of Ethiopia"
-                },
                 {
                   "text": "2019 Nobel Peace Prize",
                   "type": "internal",
@@ -105,7 +96,11 @@
                   "page": "Eritrean–Ethiopian War"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "In June 2020, Abiy, in concert with the National Election Board of Ethiopia (NEBE), decided to postpone scheduled parliamentary elections due to the COVID-19 pandemic.",
               "links": [
