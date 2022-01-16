@@ -28,11 +28,12 @@
         {
           "sentences": [
             {
-              "text": "Sahle-Work Zewde (ሣህለ ወርቅ ዘውዴ, born 21 February 1950) is an Ethiopian politician and diplomat who is the 5th and current President of Ethiopia since 2018, being the first woman to hold the office.",
+              "text": "Sahle-Work Zewde (ሣህለ ወርቅ ዘውዴ, born 21 February 1950) is an Ethiopian politician and diplomat who is the 5th and current president of Ethiopia since 2018, being the first woman to hold the office.",
               "links": [
                 {
+                  "text": "president of Ethiopia",
                   "type": "internal",
-                  "page": "President of Ethiopia"
+                  "page": "president of Ethiopia"
                 },
                 {
                   "text": "first woman",
@@ -47,7 +48,7 @@
               }
             },
             {
-              "text": "She was elected president unanimously by members of the Federal Parliamentary Assembly on 25 October 2018.",
+              "text": "She was elected as president unanimously by members of the Federal Parliamentary Assembly on 25 October 2018.",
               "links": [
                 {
                   "type": "internal",
