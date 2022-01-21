@@ -20,7 +20,7 @@
                 {
                   "text": "field marshal",
                   "type": "internal",
-                  "page": "Field marshal"
+                  "page": "field marshal"
                 },
                 {
                   "type": "internal",
@@ -135,6 +135,9 @@
                 "page": "Chief of General Staff (Ethiopia)"
               }
             ]
+          },
+          "deputy": {
+            "text": "Gen. Abebaw Tadesse"
           },
           "primeminister": {
             "text": "Abiy Ahmed",
