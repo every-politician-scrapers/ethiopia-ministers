@@ -27,6 +27,16 @@
         {
           "sentences": [
             {
+              "text": "This is an Ethiopian name."
+            },
+            {
+              "text": "The last name is a patronymic, not a family name; this person is referred to by the given name Abiy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "Abiy Ahmed Ali (Abiyi Ahmed Alii; አብይ አሕመድ ዐሊ; born 15 August 1976) is an Ethiopian politician who has been the 4th prime minister of the Federal Democratic Republic of Ethiopia since 2 April 2018.",
               "links": [
                 {
@@ -159,9 +169,6 @@
         {
           "date": "February 2021",
           "template": "use dmy dates"
-        },
-        {
-          "template": "patronymic name"
         },
         {
           "year": "1976",
