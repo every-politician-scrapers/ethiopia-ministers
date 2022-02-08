@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Fitsum Assefa Adela (, born in 1979) is an Ethiopian teacher and politician who leads the FDRE Minister of Planning and Development since 16 October 2018.",
+              "text": "Fitsum Assefa Adela (, born 12 May 1979) is an Ethiopian teacher and politician who leads the FDRE Minister of Planning and Development since 16 October 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -113,13 +113,14 @@
           "template": "use dmy dates"
         },
         {
-          "description": "Ethiopian politician",
+          "description": "Ethiopian politician and teacher",
           "template": "short description"
         },
         {
           "year": "1979",
           "month": "05",
           "day": "12",
+          "df": "y",
           "template": "birth date and age"
         },
         {
