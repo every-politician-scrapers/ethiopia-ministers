@@ -206,8 +206,12 @@
             ]
           },
           "birth_place": {
-            "text": "Ethiopia",
+            "text": "Oromia, Ethiopia",
             "links": [
+              {
+                "type": "internal",
+                "page": "Oromia"
+              },
               {
                 "type": "internal",
                 "page": "Ethiopia"
