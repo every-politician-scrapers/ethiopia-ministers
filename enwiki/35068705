@@ -28,6 +28,16 @@
         {
           "sentences": [
             {
+              "text": "This is an Ethiopian name."
+            },
+            {
+              "text": "The last name is a patronymic, not a family name; this person is referred to by the given name Sahle-Work."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "Sahle-Work Zewde (ሣህለ ወርቅ ዘውዴ, born 21 February 1950) is an Ethiopian politician and diplomat who is the 5th and current president of Ethiopia since 2018, being the first woman to hold the office.",
               "links": [
                 {
@@ -89,9 +99,6 @@
         {
           "date": "February 2021",
           "template": "use dmy dates"
-        },
-        {
-          "template": "patronymic name"
         },
         {
           "df": "y",
