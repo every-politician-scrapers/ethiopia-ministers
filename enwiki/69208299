@@ -17,13 +17,23 @@
         {
           "sentences": [
             {
-              "text": "Abraham Belay is an Ethiopian politician serving as the current the Minister of DefenseHe previously served as the Minister of Innovation and Technology, and the President of the Tigray Region Prosperity Party.",
+              "text": "Abraham Belay is an Ethiopian politician serving as the current the Minister of Defense.",
               "links": [
                 {
-                  "text": "Minister of DefenseHe",
+                  "text": "Minister of Defense",
                   "type": "internal",
                   "page": "Ministry of Defense (Ethiopia)"
-                },
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Abraham Belay"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as the Minister of Innovation and Technology, and the President of the Tigray Region Prosperity Party.",
+              "links": [
                 {
                   "text": "Minister of Innovation and Technology",
                   "type": "internal",
@@ -37,12 +47,7 @@
                   "type": "internal",
                   "page": "Prosperity Party"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Abraham Belay"
-                ]
-              }
+              ]
             }
           ]
         },
