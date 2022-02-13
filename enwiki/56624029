@@ -167,6 +167,11 @@
           "template": "short description"
         },
         {
+          "reason": "Excessive quotes from sources in citations",
+          "date": "February 2022",
+          "template": "cleanup"
+        },
+        {
           "date": "February 2021",
           "template": "use dmy dates"
         },
