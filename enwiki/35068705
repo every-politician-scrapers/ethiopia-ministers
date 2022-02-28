@@ -38,7 +38,7 @@
         {
           "sentences": [
             {
-              "text": "Sahle-Work Zewde (ሣህለ ወርቅ ዘውዴ, born 21 February 1950) is an Ethiopian politician and diplomat who is the 5th and current president of Ethiopia since 2018, being the first woman to hold the office.",
+              "text": "Sahle-Work Zewde (ሣህለ ወርቅ ዘውዴ, born 21 February 1950) is an Ethiopian politician and diplomat who is the current president of Ethiopia since 2018, being the first woman to hold the office.",
               "links": [
                 {
                   "text": "president of Ethiopia",
@@ -247,6 +247,44 @@
                 "page": "Hanna Tetteh"
               }
             ]
+          },
+          "office3": {
+            "text": "Ethiopian (People's Democratic Republic of Ethiopia and Transitional Government of Ethiopia) Ambassador to Senegal with accreditation to Mali, Cape Verde, Guinea-Bissau, Gambia and Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Democratic Republic of Ethiopia"
+              },
+              {
+                "type": "internal",
+                "page": "Transitional Government of Ethiopia"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Mengistu Haile-Mariam Tesfaye Gebre Kidan Meles Zenawi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mengistu Haile-Mariam"
+              },
+              {
+                "type": "internal",
+                "page": "Tesfaye Gebre Kidan"
+              },
+              {
+                "type": "internal",
+                "page": "Meles Zenawi"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1989",
+            "number": 1989
+          },
+          "term_end3": {
+            "text": "1993",
+            "number": 1993
           },
           "birth_date": {
             "text": "February 21, 1950"
