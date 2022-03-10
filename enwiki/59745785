@@ -1,213 +1,26 @@
 {
-  "title": "Aisha Mohammed Mussa",
-  "pageID": 59745785,
-  "categories": [
-    "1979 births",
-    "Living people",
-    "People from Afar Region",
-    "Women government ministers of Ethiopia",
-    "Female defence ministers",
-    "Defence ministers of Ethiopia",
-    "21st-century Ethiopian politicians",
-    "21st-century Ethiopian women politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Aisha Mohammed Mussa is an Ethiopian engineer and politician who is currently serving as Minister of Irrigation and Lowland Areas Development.",
-              "links": [
-                {
-                  "text": "Minister of Irrigation and Lowland Areas Development",
-                  "type": "internal",
-                  "page": "Ministry of Irrigation (Ethiopia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Aisha Mohammed Mussa"
-                ]
-              }
-            },
-            {
-              "text": "She previously served as Defense Minister from October 2018 until 18 April 2019, and Minister of Construction and Urban Development 18 April 2019 - 6 October 2021.",
-              "links": [
-                {
-                  "text": "Defense Minister",
-                  "type": "internal",
-                  "page": "Ministry of Defense (Ethiopia)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ethiopian engineer and politician",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1979",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Aisha Mohammed"
-          },
-          "native_name": {
-            "text": "አይሻ መሀመድ"
-          },
-          "native_name_lang": {
-            "text": "am"
-          },
-          "image": {
-            "text": "Aisha Mohammed Mussa with Ministry of Foreign Affairs Indonesia.jpg"
-          },
-          "caption": {
-            "text": "Aisha Mohammed Mussa speaks with the Ministry of Foreign Affairs Indonesia in 2021",
-            "links": [
-              {
-                "text": "Ministry of Foreign Affairs Indonesia",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Indonesia)"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Irrigation and Lowland Areas Development",
-            "links": [
-              {
-                "text": "Minister of Irrigation and Lowland Areas Development",
-                "type": "internal",
-                "page": "Ministry of Irrigation (Ethiopia)"
-              }
-            ]
-          },
-          "president": {
-            "text": "Sahle-Work Zewde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sahle-Work Zewde"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Abiy Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abiy Ahmed"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 October 2021"
-          },
-          "predecessor": {
-            "text": "Position Established"
-          },
-          "office2": {
-            "text": "Minister of Defense",
-            "links": [
-              {
-                "text": "Minister of Defense",
-                "type": "internal",
-                "page": "Ministry of Defense (Ethiopia)"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Sahle-Work Zewde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sahle-Work Zewde"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Abiy Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abiy Ahmed"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "16 October 2018"
-          },
-          "term_end2": {
-            "text": "18 April 2019"
-          },
-          "predecessor2": {
-            "text": "Siraj Fegessa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Siraj Fegessa"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Lemma Megersa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lemma Megersa"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Urban Development and Construction"
-          },
-          "president1": {
-            "text": "Sahle-Work Zewde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sahle-Work Zewde"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Abiy Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abiy Ahmed"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "18 April 2019"
-          },
-          "term_end1": {
-            "text": "6 October 2021"
-          },
-          "birth_date": {
-            "text": "1979 (age 43)"
-          },
-          "birth_place": {
-            "text": "Socialist Ethiopia",
-            "links": [
-              {
-                "text": "Socialist Ethiopia",
-                "type": "internal",
-                "page": "Derg"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Aisha Mohammed",
+  "native_name": "አይሻ መሀመድ",
+  "native_name_lang": "am",
+  "image": "Aisha Mohammed Mussa with Ministry of Foreign Affairs Indonesia.jpg",
+  "caption": "Aisha Mohammed Mussa speaks with the Ministry of Foreign Affairs Indonesia in 2021",
+  "office": "Minister of Irrigation and Lowland Areas Development",
+  "president": "Sahle-Work Zewde",
+  "primeminister": "Abiy Ahmed",
+  "term_start": "6 October 2021",
+  "predecessor": "Position Established",
+  "office2": "Minister of Defense",
+  "president2": "Sahle-Work Zewde",
+  "primeminister2": "Abiy Ahmed",
+  "term_start2": "16 October 2018",
+  "term_end2": "18 April 2019",
+  "predecessor2": "Siraj Fegessa",
+  "successor2": "Lemma Megersa",
+  "office1": "Urban Development and Construction",
+  "president1": "Sahle-Work Zewde",
+  "primeminister1": "Abiy Ahmed",
+  "term_start1": "18 April 2019",
+  "term_end1": "6 October 2021",
+  "birth_date": "1979 (age 43)",
+  "birth_place": "Socialist Ethiopia"
 }
