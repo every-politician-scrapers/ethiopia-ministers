@@ -1,287 +1,32 @@
 {
-  "title": "Muferiat Kamil",
-  "pageID": 57763011,
-  "categories": [
-    "Living people",
-    "Southern Ethiopian People's Democratic Movement politicians",
-    "1976 births",
-    "Speakers of the House of Peoples' Representatives (Ethiopia)",
-    "Government ministers of Ethiopia",
-    "Women government ministers of Ethiopia",
-    "Ethiopian Muslims",
-    "Female interior ministers",
-    "21st-century Ethiopian politicians",
-    "21st-century Ethiopian women politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Muferihat Kamil Ahmed (Amharic: ሙፈሪሃት ካሚል አሕመድ, mufärihat kamil ähmäd; born 1976) is an Ethiopian politician who is the current Ministry of Labour and Skills Development in Ethiopia.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Amharic"
-                },
-                {
-                  "type": "internal",
-                  "page": "Ethiopian"
-                },
-                {
-                  "text": "Ministry of Labour and Skills Development",
-                  "type": "internal",
-                  "page": "Minister of Labour"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Muferihat Kamil Ahmed"
-                ],
-                "italic": [
-                  "mufärihat kamil ähmäd"
-                ]
-              }
-            },
-            {
-              "text": "She was the Speaker of the House of People's Representatives.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "House of People's Representatives"
-                }
-              ]
-            },
-            {
-              "text": "Muferihat previously served as the first Minister of Peace from October 2018 - 6 October 2021.",
-              "links": [
-                {
-                  "text": "Minister of Peace",
-                  "type": "internal",
-                  "page": "Ministry of Peace (Ethiopia)"
-                }
-              ]
-            },
-            {
-              "text": "She was the Chair of the SEPDM (Southern Ethiopian People's Democratic Movement), one of the four parties that make up the former ruling coalition in Ethiopia, the EPRDF.",
-              "links": [
-                {
-                  "text": "SEPDM (Southern Ethiopian People's Democratic Movement)",
-                  "type": "internal",
-                  "page": "Southern Ethiopian People's Democratic Movement"
-                },
-                {
-                  "type": "internal",
-                  "page": "EPRDF"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ethiopian politician",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1976",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Muferihat Kamil Ahmed"
-          },
-          "native_name": {
-            "text": "ሙፈሪሃት ካሚል አሕመድ"
-          },
-          "native_name_lang": {
-            "text": "am"
-          },
-          "image_size": {
-            "text": "180px"
-          },
-          "office": {
-            "text": "Ministry of Labour and Skills Development",
-            "links": [
-              {
-                "text": "Ministry of Labour and Skills Development",
-                "type": "internal",
-                "page": "Minister of Labour"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 October 2021"
-          },
-          "predecessor": {
-            "text": "Ergoge Tesfaye",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ergoge Tesfaye"
-              }
-            ]
-          },
-          "president": {
-            "text": "Sahle-Work Zewde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sahle-Work Zewde"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Abiy Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abiy Ahmed"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Peace",
-            "links": [
-              {
-                "text": "Minister of Peace",
-                "type": "internal",
-                "page": "Ministry of Peace (Ethiopia)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "16 October 2018"
-          },
-          "term_end1": {
-            "text": "6 October 2021"
-          },
-          "predecessor1": {
-            "text": "Post established"
-          },
-          "successor1": {
-            "text": "Binalf Andualem"
-          },
-          "president1": {
-            "text": "Sahle-Work Zewde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sahle-Work Zewde"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Abiy Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abiy Ahmed"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Speaker of the House of People's Representatives",
-            "links": [
-              {
-                "text": "Speaker of the House of People's Representatives",
-                "type": "internal",
-                "page": "House of People's Representatives"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "19 April 2018"
-          },
-          "term_end2": {
-            "text": "16 October 2018"
-          },
-          "predecessor2": {
-            "text": "Abadula Gemeda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abadula Gemeda"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Tagesse Chafo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tagesse Chafo"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Leader of the Southern Ethiopian People's Democratic Movement",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Southern Ethiopian People's Democratic Movement"
-              }
-            ]
-          },
-          "deputy3": {
-            "text": "Million Mathios Korsisa"
-          },
-          "term_start3": {
-            "text": "25 June 2018"
-          },
-          "term_end3": {
-            "text": "1 December 2019"
-          },
-          "predecessor3": {
-            "text": "Shiferaw Shigute",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shiferaw Shigute"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "post abolished",
-            "formatting": {
-              "italic": [
-                "post abolished"
-              ]
-            }
-          },
-          "birth_date": {
-            "text": "1976 (age 46)"
-          },
-          "party": {
-            "text": "Prosperity Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prosperity Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Ethiopian People's Revolutionary Democratic Front Southern Ethiopian People's Democratic Movement",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ethiopian People's Revolutionary Democratic Front"
-              },
-              {
-                "type": "internal",
-                "page": "Southern Ethiopian People's Democratic Movement"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Muferihat Kamil Ahmed",
+  "native_name": "ሙፈሪሃት ካሚል አሕመድ",
+  "native_name_lang": "am",
+  "image_size": "180px",
+  "office": "Ministry of Labour and Skills Development",
+  "term_start": "6 October 2021",
+  "predecessor": "Ergoge Tesfaye",
+  "president": "Sahle-Work Zewde",
+  "primeminister": "Abiy Ahmed",
+  "office1": "Minister of Peace",
+  "term_start1": "16 October 2018",
+  "term_end1": "6 October 2021",
+  "predecessor1": "Post established",
+  "successor1": "Binalf Andualem",
+  "president1": "Sahle-Work Zewde",
+  "primeminister1": "Abiy Ahmed",
+  "office2": "Speaker of the House of People's Representatives",
+  "term_start2": "19 April 2018",
+  "term_end2": "16 October 2018",
+  "predecessor2": "Abadula Gemeda",
+  "successor2": "Tagesse Chafo",
+  "office3": "Leader of the Southern Ethiopian People's Democratic Movement",
+  "deputy3": "Million Mathios Korsisa",
+  "term_start3": "25 June 2018",
+  "term_end3": "1 December 2019",
+  "predecessor3": "Shiferaw Shigute",
+  "successor3": "post abolished",
+  "birth_date": "1976 (age 46)",
+  "party": "Prosperity Party",
+  "otherparty": "Ethiopian People's Revolutionary Democratic Front Southern Ethiopian People's Democratic Movement"
 }

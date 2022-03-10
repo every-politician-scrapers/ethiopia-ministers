@@ -1,145 +1,15 @@
 {
-  "title": "Gedion Timotheos",
-  "pageID": 69163820,
-  "categories": [
-    "Living people",
-    "Ethiopian politicians",
-    "Government ministries of Ethiopia",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gedion Timotheos (Amharic: ጌድዮን ቲሞጢዎስ) is an Ethiopian politician who had served as Minister of Justice until 2 November 2021, who previously served as the Ethiopian attorney general before the position again was renamed to the Minister of Justice.",
-              "links": [
-                {
-                  "text": "Minister of Justice",
-                  "type": "internal",
-                  "page": "Ministry of Justice (Ethiopia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Gedion Timotheos"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ethiopian politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Gedion Timotheos"
-          },
-          "native_name": {
-            "text": "ጌድዮን ቲሞጢዎስ"
-          },
-          "office2": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Ministry of Justice (Ethiopia)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Abiy Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abiy Ahmed"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Sahle-Work Zewde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sahle-Work Zewde"
-              }
-            ]
-          },
-          "country": {
-            "text": "Ethiopia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ethiopia"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "6 October 2021"
-          },
-          "term_end2": {
-            "text": "2 November 2021"
-          },
-          "office1": {
-            "text": "Attorney-General of Ethiopia"
-          },
-          "term_start1": {
-            "text": "2 November 2021"
-          },
-          "primeminister2": {
-            "text": "Abiy Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abiy Ahmed"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Sahle-Work Zewde",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sahle-Work Zewde"
-              }
-            ]
-          },
-          "education": {
-            "text": "Addis Ababa University (LL.B.) Central European University (LL.M., S.J.D.)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Addis Ababa University"
-              },
-              {
-                "type": "internal",
-                "page": "LL.B."
-              },
-              {
-                "type": "internal",
-                "page": "Central European University"
-              },
-              {
-                "type": "internal",
-                "page": "LL.M."
-              },
-              {
-                "type": "internal",
-                "page": "S.J.D."
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Gedion Timotheos",
+  "native_name": "ጌድዮን ቲሞጢዎስ",
+  "office2": "Minister of Justice",
+  "primeminister1": "Abiy Ahmed",
+  "president1": "Sahle-Work Zewde",
+  "country": "Ethiopia",
+  "term_start2": "6 October 2021",
+  "term_end2": "2 November 2021",
+  "office1": "Attorney-General of Ethiopia",
+  "term_start1": "2 November 2021",
+  "primeminister2": "Abiy Ahmed",
+  "president2": "Sahle-Work Zewde",
+  "education": "Addis Ababa University (LL.B.) Central European University (LL.M., S.J.D.)"
 }

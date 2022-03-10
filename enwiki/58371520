@@ -1,211 +1,28 @@
 {
-  "title": "Takele Uma Banti",
-  "pageID": 58371520,
-  "categories": [
-    "Living people",
-    "21st-century Ethiopian politicians",
-    "Mayors of Addis Ababa",
-    "Addis Ababa University alumni",
-    "Place of birth missing (living people)",
-    "Ministers of Mines and Petroleum",
-    "1981 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Takele Uma Banti (Oromo: Takala Umaa Bantii; born 1981) is an Ethiopian politician and the current Minister for Mines, Petroleum and Natural Gas of Ethiopia.",
-              "links": [
-                {
-                  "text": "Oromo",
-                  "type": "internal",
-                  "page": "Oromo language"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Takele Uma Banti"
-                ],
-                "italic": [
-                  "Takala Umaa Bantii"
-                ]
-              }
-            },
-            {
-              "text": "He was the 31st Mayor of Addis Ababa who came to prominence for his transformational way of doing business and his visionary leadership roles after Ethiopia's reform by the current leadership of the country starting 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mayor of Addis Ababa"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Ethiopian politician",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "date": "September 2018",
-          "template": "blp sources"
-        },
-        {
-          "list": [
-            "Takele",
-            "Uma",
-            "his"
-          ],
-          "template": "patronymic name"
-        },
-        {
-          "birth_year": "1981",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Takele Uma Banti"
-          },
-          "native_name": {
-            "text": "ታከለ ኡማ ባንቲ,\n Takala Umaa Bantii"
-          },
-          "native_name_lang": {
-            "text": "am/om"
-          },
-          "image_size": {
-            "text": "250px"
-          },
-          "office": {
-            "text": "Minister for Mines and Petroleum"
-          },
-          "term_start": {
-            "text": "August 18, 2020"
-          },
-          "primeminister": {
-            "text": "Abiy Ahmed",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abiy Ahmed"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Samuel Urkato"
-          },
-          "office1": {
-            "text": "31st Mayor of Addis Ababa",
-            "links": [
-              {
-                "text": "31st Mayor of Addis Ababa",
-                "type": "internal",
-                "page": "Mayor of Addis Ababa"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "July 17, 2018"
-          },
-          "term_end1": {
-            "text": "August 18, 2020"
-          },
-          "deputy1": {
-            "text": "Solomon Kidane"
-          },
-          "predecessor1": {
-            "text": "Diriba Kuma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Diriba Kuma"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Adanech Abiebie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adanech Abiebie"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Head of the Oromia Transport Bureau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Oromia"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "November 2016"
-          },
-          "term_end2": {
-            "text": "2018",
-            "number": 2018
-          },
-          "office3": {
-            "text": "General Manager of Oromia Urban Land Sectors"
-          },
-          "term_start3": {
-            "text": "September 2013"
-          },
-          "term_end3": {
-            "text": "November 2016"
-          },
-          "office4": {
-            "text": "Mayor of Sululta, Oromia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sululta"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 July 2010"
-          },
-          "term_end4": {
-            "text": "30 June 2011"
-          },
-          "birth_date": {
-            "text": "1981 (age 41)"
-          },
-          "education": {
-            "text": "Addis Ababa University (BSc, MSc)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Addis Ababa University"
-              },
-              {
-                "text": "BSc",
-                "type": "internal",
-                "page": "Bachelor of Science"
-              },
-              {
-                "text": "MSc",
-                "type": "internal",
-                "page": "Master of Science"
-              }
-            ]
-          },
-          "website": {
-            "text": "MoMP"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Takele Uma Banti",
+  "native_name": "ታከለ ኡማ ባንቲ,\n Takala Umaa Bantii",
+  "native_name_lang": "am/om",
+  "image_size": "250px",
+  "office": "Minister for Mines and Petroleum",
+  "term_start": "August 18, 2020",
+  "primeminister": "Abiy Ahmed",
+  "predecessor": "Samuel Urkato",
+  "office1": "31st Mayor of Addis Ababa",
+  "term_start1": "July 17, 2018",
+  "term_end1": "August 18, 2020",
+  "deputy1": "Solomon Kidane",
+  "predecessor1": "Diriba Kuma",
+  "successor1": "Adanech Abiebie",
+  "office2": "Head of the Oromia Transport Bureau",
+  "term_start2": "November 2016",
+  "term_end2": "2018",
+  "office3": "General Manager of Oromia Urban Land Sectors",
+  "term_start3": "September 2013",
+  "term_end3": "November 2016",
+  "office4": "Mayor of Sululta, Oromia",
+  "term_start4": "1 July 2010",
+  "term_end4": "30 June 2011",
+  "birth_date": "1981 (age 41)",
+  "education": "Addis Ababa University (BSc, MSc)",
+  "website": "MoMP"
 }
