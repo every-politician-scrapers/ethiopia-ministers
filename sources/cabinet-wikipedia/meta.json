@@ -1,0 +1,18 @@
+{
+    "jurisdiction": {
+      "name": "Ethiopia",
+      "id": "Q115"
+    },
+    "cabinet": {
+      "id": "Q109990211",
+      "start": "2021-10-06",
+      "parent": "Q1716757"
+    },
+    "source": {
+        "url":   "https://en.wikipedia.org/wiki/Council_of_Ministers_(Ethiopia)",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    }
+}

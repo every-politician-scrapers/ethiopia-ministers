@@ -7,19 +7,13 @@
 ->,Q55238035,Muferihat Kamil Ahmed->Muferiat Kamil,Minister of Labour and Skills Development
 ->,Q50365049,Abiy Ahmed Ali->Abiy Ahmed,Prime Minister of Ethiopia
 ->,Q4891781,Berhanu Nega,Minister of Education of Ethiopia->Minister of Education
-->,Q109994663->NULL,Nassise Chali,Minister of Tourism
-->,Q109994204->NULL,Binalf Andualem,Minister of Peace (Ethiopia)->Minister of Peace
-->,Q109994068->NULL,Kejela Merdasa->Kejella Merdassa,Minister of Culture and Sport
-->,Q109993975->NULL,Belete Molla,Minister of Innovation and Technology
-->,Q109993896->NULL,Melaku Alebel,Minister of Industry
-->,Q109993837->NULL,Gebremeskel Chala,Minister of Trade of Ethiopia->Minister of Trade and Regional Integration
-->,Q109993726->NULL,Lake Ayalew->La'qe Ayalew,Minister of Revenues
-->,Q109993651->NULL,Habtamu Itefa,Minister of Water and Energy
-->,Q109993561->NULL,Chaltu Sani,Minister of Urbanization and Infrastructure
-->,Q109993240->NULL,Omer Husen,Minister of Agriculture of Ethiopia->Minister of Agriculture
+->,Q109994204,Binalf Andualem,Minister of Peace (Ethiopia)->Minister of Peace
+->,Q109994068,Kejela Merdasa->Kejella Merdassa,Minister of Culture and Sport
+->,Q109993837,Gebremeskel Chala,Minister of Trade of Ethiopia->Minister of Trade and Regional Integration
+->,Q109993726,Lake Ayalew->La'qe Ayalew,Minister of Revenues
+->,Q109993240,Omer Husen,Minister of Agriculture of Ethiopia->Minister of Agriculture
 ->,Q109536191,Abraham Belay,Minister of Defence of Ethiopia->Minister of Defense
+->,Q109339517,Gedion Timotheos,Minister of Justice of Ethiopia->Minister of Justice
 ---,Q7399685,Sahle-Work Zewde,President of Ethiopia
 ---,Q16728486,Demeke Mekonnen,Minister of Foreign Affairs of Ethiopia
----,Q109339517,Gedion Timotheos,Minister of Justice of Ethiopia
 +++,Q16728486,Demeke Mekonnen,Minister of Foreign Affairs
-+++,"",Gedion Timothewos,Minister of Justice
