@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Ethiopia",
+      "id": "Q115"
+    },
+    "cabinet": {
+      "id": "Q109990211",
+      "start": "2021-10-06",
+      "parent": "Q1716757"
+    },
+    "source": {
+        "url":   "https://www.ethiopia.gov.et/about-the-government/government-officials/",
+        "title": "Government Officials",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/ethiopia-ministers"
+}
