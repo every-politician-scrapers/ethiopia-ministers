@@ -1,13 +1,4 @@
 {
-  "embed": "yes",
-  "embed_title": "Ethiopian military service",
-  "branch_label": "Branch",
-  "branch": "Ground Forces",
-  "rank": "Ethiopia-Army-OF-10 (2022).svg Field marshal general",
-  "battles_label": "Conflict",
-  "battles": "Eritrean–Ethiopian War Tigray War"
-}
-{
   "honorific-prefix": "Field Marshal",
   "name": "Birhanu Jula Gelalcha",
   "native_name": "Birhaanuu Julaa Galaalchaa",
@@ -25,5 +16,11 @@
   "appointer1": "Abiy Ahmed",
   "predecessor1": "Yohannes Gebremeskel Tesfamariam",
   "successor1": "Hassen Ebrahim Mussa",
-  "birth_place": "Oromia, Ethiopia"
+  "birth_date": "1965",
+  "birth_place": "Oromia, Ethiopian Empire",
+  "birth_name": "Birhanu Jula Gelalcha",
+  "children": "3",
+  "branch": "Ground Forces",
+  "rank": "Ethiopia-Army-OF-10 (2022).svg Field Marshal",
+  "battles": "Eritrean–Ethiopian War Tigray War"
 }
