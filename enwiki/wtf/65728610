@@ -1,0 +1,596 @@
+{
+  "title": "Adanech Abebe",
+  "pageID": 65728610,
+  "categories": [
+    "Living people",
+    "20th-century Ethiopian women",
+    "21st-century Ethiopian women",
+    "21st-century Ethiopian politicians",
+    "21st-century Ethiopian women politicians",
+    "Mayors of Addis Ababa",
+    "Attorneys general",
+    "Finance ministers of Ethiopia",
+    "People from Oromia Region",
+    "Alumni of the University of Greenwich",
+    "Year of birth missing (living people)",
+    "Women government ministers of Ethiopia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Adanech Abebe (Adaanach Abbabee) is an Ethiopian politician and attorney who is serving as the thirty-second mayor of Addis Ababa.",
+              "links": [
+                {
+                  "text": "Ethiopian",
+                  "type": "internal",
+                  "page": "Ethiopians"
+                },
+                {
+                  "text": "mayor of Addis Ababa",
+                  "type": "internal",
+                  "page": "mayor of Addis Ababa"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Adanech Abebe"
+                ]
+              }
+            },
+            {
+              "text": "She has been serving as a deputy mayor from 2020 until 2021."
+            },
+            {
+              "text": "She previously was the Minister of Revenue and Customs Authority from 2018 to 2020, when she became the first female to assume the role of the Federal Attorney General of Ethiopia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Attorney General"
+                }
+              ]
+            },
+            {
+              "text": "She is the first woman to hold the mayorship since it was created in 1910."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Ethiopian politician; current Mayor of Addis Ababa since 2021",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Adanech",
+            "Abebe",
+            "hers"
+          ],
+          "template": "patronymic name"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2021",
+            "month": "09",
+            "date": "28",
+            "df": "y",
+            "template": "start date",
+            "text": "September 28, 2021"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "08",
+            "date": "18",
+            "df": "y",
+            "template": "start date",
+            "text": "August 18, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "03",
+            "date": "12",
+            "df": "y",
+            "template": "start date",
+            "text": "March 12, 2020"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2020",
+            "month": "08",
+            "date": "18",
+            "df": "y",
+            "template": "start date",
+            "text": "August 18, 2020"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Mayor of Addis Ababa"
+          },
+          "status": {
+            "text": "Mayor"
+          },
+          "term_start": {
+            "text": "September 28, 2021"
+          },
+          "order": {
+            "text": "32nd"
+          },
+          "president": {
+            "text": "Sahle-Work Zewde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sahle-Work Zewde"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "text": "Abiy Ahmed",
+                "type": "internal",
+                "page": "Abiy Ahmed Ali"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Mayor of Addis Ababa"
+          },
+          "term_start1": {
+            "text": "August 18, 2020"
+          },
+          "term_end1": {
+            "text": "28 September 2021"
+          },
+          "president1": {
+            "text": "Sahle-Work Zewde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sahle-Work Zewde"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "text": "Abiy Ahmed",
+                "type": "internal",
+                "page": "Abiy Ahmed Ali"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Takele Uma Banti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Takele Uma Banti"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Federal Attorney General of Ethiopia"
+          },
+          "predecessor2": {
+            "text": "Birhanu Tsegay"
+          },
+          "successor2": {
+            "text": "Gedion Timothewos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gedion Timothewos"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "March 12, 2020"
+          },
+          "office3": {
+            "text": "Minister of the Ministry of Revenue and Customs Authority"
+          },
+          "term_start3": {
+            "text": "October 2018"
+          },
+          "term_end3": {
+            "text": "March 2020"
+          },
+          "native_name": {
+            "text": "Adaanach Abbabee"
+          },
+          "native_name_lang": {
+            "text": "om"
+          },
+          "image": {
+            "text": "Adanech Abebe in 2019 (cropped).png"
+          },
+          "caption": {
+            "text": "Adanech in 2019"
+          },
+          "term_end2": {
+            "text": "August 18, 2020"
+          },
+          "alma_mater": {
+            "text": "Ethiopian Civil Service University\n\nGreenwich University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ethiopian Civil Service University"
+              },
+              {
+                "type": "internal",
+                "page": "Greenwich University"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Arsi Province, Ethiopia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arsi Province"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "party": {
+            "text": "Prosperity Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prosperity Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "\"I will perform my duty and ask my right\" {{!}} Addis Ababa University",
+          "url": "http://www.aau.edu.et/blog/i-will-perform-my-duty-and-ask-my-right/",
+          "access-date": "31 October 2020",
+          "website": "www.aau.edu.et",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "31 October 2020",
+          "title": "Adanech Abebie appointed as Deputy Mayor of Addis Ababa City",
+          "url": "https://www.press.et/english/wp-content/uploads/2020/08/August19_opt.pdf",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210412173323/https://www.press.et/english/wp-content/uploads/2020/08/August19_opt.pdf",
+          "archive-date": "12 April 2021",
+          "website": "Press Ethiopia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "MADAM MAYOR!",
+          "url": "https://addisfortune.news/madam-mayor-2/",
+          "access-date": "2022-05-26",
+          "website": "Fortune (Addis)",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "July 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Arsi Province, Adanech has little familial disclosure.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arsi Province"
+                }
+              ]
+            },
+            {
+              "text": "But it was widely known Abebe Deso is her father."
+            },
+            {
+              "text": "She is the only daughter of six children."
+            },
+            {
+              "text": "Abebe's prominence in the province led to establishing Ireecha Primary School in 1977, where Adanech was received as the first female student."
+            },
+            {
+              "text": "Adanech independently taught herself for the sake of her father based on child marriage.",
+              "links": [
+                {
+                  "text": "child marriage",
+                  "type": "internal",
+                  "page": "child marriage"
+                }
+              ]
+            },
+            {
+              "text": "Inspired by her deeds, Abebe progressively admitted the violence against women and criticized parents who did not want to allow their female children to attend school."
+            },
+            {
+              "text": "Despite initially five girls enrolled the school, only Adanech and her fellow student passed a Grade 6th National Exam (Ministry Exam)."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "26 March 2022",
+          "title": "Adanech Abebe Biography {{!}} Education, Career, Family & Net Worth",
+          "url": "https://typicalethiopian.com/adanech-abebe-biography-education-career-family-net-worth/",
+          "access-date": "29 April 2022",
+          "website": "Typical Ethiopian",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Adanech completed undergraduate studies in law at the Ethiopian Civil Service University in 2001, and received graduate program in leadership from Greenwich University in the United Kingdom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ethiopian Civil Service University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Greenwich University"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Adanech's early career was as an elementary school teacher before becoming the administrative director of the school."
+            },
+            {
+              "text": "Her capability for leadership at both federal and regional levels led her to enter politics."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2001, Adanech served as attorney of the Oromia Justice Bureau."
+            },
+            {
+              "text": "In the 2005 general election, she won a seat in the House of People's Representatives Aseko constituency.",
+              "links": [
+                {
+                  "text": "2005 general election",
+                  "type": "internal",
+                  "page": "2005 Ethiopian general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of People's Representatives"
+                },
+                {
+                  "type": "internal",
+                  "page": "Aseko"
+                }
+              ]
+            },
+            {
+              "text": "Then, she took a director position at the Oromia Development Association (ODA), where she served for five years."
+            },
+            {
+              "text": "During the position, Adanech reformed the status of the association and becomes the mayor of Adama.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adama"
+                }
+              ]
+            },
+            {
+              "text": "She was the first female in the position and embarked on significant changes during her administration, including the reduction of corruption within the city.",
+              "links": [
+                {
+                  "text": "corruption",
+                  "type": "internal",
+                  "page": "Corruption in Ethiopia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She served as minister of the Revenue and Customs Authority from 2018 to 2020, reinstating corruption and bribery investigations."
+            },
+            {
+              "text": "After serving two years, she was appointed to Federal Attorney General of Ethiopia under the premiership of Abiy Ahmed on 12 March 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Federal Attorney General of Ethiopia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abiy Ahmed"
+                }
+              ]
+            },
+            {
+              "text": "On 18 August 2020, she was appointed as Deputy Mayor of Addis Ababa, with 138 voices.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayor of Addis Ababa"
+                }
+              ]
+            },
+            {
+              "text": "Adanech included two individuals from her cabinet."
+            },
+            {
+              "text": "In September 2021, Adanech was elected mayor of the city."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Although Adanech never shared her personal life via public media, she revealed her husband Teshome Abebe, on a talk show episode.",
+              "links": [
+                {
+                  "text": "talk show episode",
+                  "type": "internal",
+                  "page": "Seifu on EBS"
+                }
+              ]
+            },
+            {
+              "text": "Adanech also told she has two children, a boy, and a girl."
+            },
+            {
+              "text": "She also thanked Teshome for being a \"caring and supportive person\" in the family and helping to complete her education."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Council of Ministers of Abiy Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Council of Ministers of Abiy Ahmed"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ],
+      "references": [
+        {
+          "date": "12 March 2020",
+          "title": "Ethiopia's first women attorney general confirmed in the parliament",
+          "work": "Borkena",
+          "url": "https://borkena.com/2020/03/12/ethiopias-first-women-attorney-general-confirmed-in-the-parliament/",
+          "url-status": "live",
+          "accessdate": "31 December 2020",
+          "archiveurl": "https://archive.today/jmB07",
+          "archivedate": "30 December 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "11 March 2020",
+          "title": "Adanech Abebe to Swear Oath as Attorney General",
+          "work": "Addis Fortune",
+          "url": "https://addisfortune.news/breaking-news/adanech-abebe-to-swear-oath-as-attorney-general/",
+          "url-status": "live",
+          "accessdate": "31 December 2020",
+          "archiveurl": "https://archive.today/zjgfS",
+          "archivedate": "30 December 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "16 October 2018",
+          "title": "News update: PM Abiy Ahmed's downsized cabinet sees 50 per cent women ministers assume key positions",
+          "work": "Addis Standard",
+          "url": "https://addisstandard.com/news-update-pm-abiy-ahmeds-downsized-cabinet-sees-50-per-cent-women-ministers-assume-key-positions/",
+          "url-status": "live",
+          "accessdate": "2 January 2021",
+          "archiveurl": "https://archive.today/T2Xqe",
+          "archivedate": "2 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "ኢዛ",
+          "title": "ወ/ሮ አዳነች አቤቤ የኢ/ር ታከለ ኡማን ሥልጣን ተረከቡ",
+          "url": "https://ethiopiazare.com/amharic/the-news-50/qekdami-zena/5250--",
+          "access-date": "31 October 2020",
+          "website": "Ethiopia Zare",
+          "language": "en-gb",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

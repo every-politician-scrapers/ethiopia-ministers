@@ -1,0 +1,220 @@
+{
+  "title": "Dagmawit Moges",
+  "pageID": 60421569,
+  "categories": [
+    "21st-century Ethiopian politicians",
+    "1983 births",
+    "Living people",
+    "Government ministers of Ethiopia",
+    "21st-century Ethiopian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dagmawit Moges Bekele (ዳግማዊት ሞገስ በቀለ; born 10 December 1983) is an Ethiopian politician serving as the current Minister of Transport of the Ethiopia since October 2018.",
+              "links": [
+                {
+                  "text": "Minister of Transport",
+                  "type": "internal",
+                  "page": "Ministry of Transport and Communications (Ethiopia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ethiopia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dagmawit Moges Bekele"
+                ]
+              }
+            },
+            {
+              "text": "She has served also as Deputy Mayor and Communication Affairs Bureau Head of Addis Ababa City Administration."
+            },
+            {
+              "text": "Dagmawit was previously Deputy Mayor of Addis Ababa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Addis Ababa"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Dagmawit",
+            "Moges Bekele",
+            "her",
+            "father"
+          ],
+          "template": "patronymic name"
+        },
+        {
+          "description": "Ethiopian politician (born 1983)",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "1983",
+            "12",
+            "10"
+          ],
+          "df": "yes",
+          "template": "birthdate and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Dagmawit Moges Bekele"
+          },
+          "native_name": {
+            "text": "ዳግማዊት ሞገስ በቀለ"
+          },
+          "image_size": {
+            "text": "310px"
+          },
+          "office": {
+            "text": "Minister of Transport",
+            "links": [
+              {
+                "text": "Minister of Transport",
+                "type": "internal",
+                "page": "Ministry of Transport and Communications (Ethiopia)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Sahle-Work Zewde",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sahle-Work Zewde"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Abiy Ahmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abiy Ahmed"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "October 2018"
+          },
+          "predecessor": {
+            "text": "Siraj Fergessa"
+          },
+          "birth_place": {
+            "text": "Addis Ababa, Ethiopia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Addis Ababa"
+              },
+              {
+                "text": "Ethiopia",
+                "type": "internal",
+                "page": "Derg"
+              }
+            ]
+          },
+          "party": {
+            "text": "Prosperity Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prosperity Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Ethiopian People's Revolutionary Democratic Front Amhara Democratic Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ethiopian People's Revolutionary Democratic Front"
+              },
+              {
+                "type": "internal",
+                "page": "Amhara Democratic Party"
+              }
+            ]
+          },
+          "quote": {
+            "text": "Leadership is not given, it is something you take it."
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-01-15",
+          "title": "Dagmawit Moges",
+          "url": "https://live.worldbank.org/experts/dagmawit-moges",
+          "access-date": "2020-08-18",
+          "website": "World Bank Live",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Dagmawit Moges: Ethiopian Woman in Politics (interview in Amharic)",
+            "links": [
+              {
+                "text": "Dagmawit Moges: Ethiopian Woman in Politics (interview in Amharic)",
+                "type": "external",
+                "site": "https://ecadforum.com/2018/10/19/dagmawit-moges-ethiopian-woman-in-politics-sbs-interview/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
